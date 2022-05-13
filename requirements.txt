@@ -1,0 +1,17 @@
+autopep8==1.6.0
+click==8.0.4
+dataclasses==0.8
+Flask==2.0.3
+Flask-MySQL==1.5.2
+Flask-SQLAlchemy==2.5.1
+importlib-metadata==4.8.3
+itsdangerous==2.0.1
+Jinja2==3.0.3
+MarkupSafe==2.0.1
+pycodestyle==2.8.0
+PyMySQL==1.0.2
+SQLAlchemy==1.4.36
+toml==0.10.2
+typing_extensions==4.1.1
+Werkzeug==2.0.3
+zipp==3.6.0
